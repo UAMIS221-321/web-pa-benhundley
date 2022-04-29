@@ -1,0 +1,16 @@
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.exe
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.deps.json
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.runtimeconfig.json
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.runtimeconfig.dev.json
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.dll
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\ref\web-pa-benhundley.dll
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\bin\Debug\net5.0\web-pa-benhundley.pdb
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.csproj.AssemblyReference.cache
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.AssemblyInfoInputs.cache
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.AssemblyInfo.cs
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.csproj.CoreCompileInputs.cache
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.dll
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\ref\web-pa-benhundley.dll
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.pdb
+C:\Users\benhu\Documents\MIS 221\web-pa-benhundley\obj\Debug\net5.0\web-pa-benhundley.genruntimeconfig.cache
